@@ -1,2 +1,2 @@
-mitmproxy==11.1.2
+mitmproxy==12.2.2
 flask==2.3.3
